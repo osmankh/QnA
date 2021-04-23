@@ -2,12 +2,16 @@
 
 The application consists of two components, a React UI and a Java server backend written in Spring Boot. It is a Q&A application where the user can ask questions or answer already existing ones.
 
-## Tools Used in the backend
+## Backend
 * Java Spring Boot
 * PostgreSQL
 * Flyway for db migration and seeding
+* Web
+* RESTful
+* Apache Tomcat
 
-## Tools Used in the frontend
+
+## Frontend
 * ReactJS
 * Redux
 * Functional components and Hooks
